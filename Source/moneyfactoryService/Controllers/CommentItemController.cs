@@ -38,7 +38,8 @@ namespace moneyfactoryService.Controllers
 
         // POST tables/CommentItem/48D68C86-6EA6-4C25-AA33-223FC9A27959
         public async Task<IHttpActionResult> PostCommentItem(CommentItem item)
-        {
+        { 
+            item.Date = System.DateTime.Now;
             CommentItem current = await InsertAsync(item);
             return CreatedAtRoute("Tables", new { id = current.Id }, current);
         }

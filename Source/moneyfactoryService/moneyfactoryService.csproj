@@ -220,11 +220,15 @@
     <None Include="Properties\PublishProfiles\moneyfactory - FTP %283%29.pubxml" />
     <None Include="Properties\PublishProfiles\moneyfactory - FTP %284%29.pubxml" />
     <None Include="Properties\PublishProfiles\moneyfactory - FTP %285%29.pubxml" />
+    <None Include="Properties\PublishProfiles\moneyfactory - FTP %286%29.pubxml" />
+    <None Include="Properties\PublishProfiles\moneyfactory - FTP %287%29.pubxml" />
     <None Include="Properties\PublishProfiles\moneyfactory - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\moneyfactory - Web Deploy %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\moneyfactory - Web Deploy %283%29.pubxml" />
     <None Include="Properties\PublishProfiles\moneyfactory - Web Deploy %284%29.pubxml" />
     <None Include="Properties\PublishProfiles\moneyfactory - Web Deploy %285%29.pubxml" />
+    <None Include="Properties\PublishProfiles\moneyfactory - Web Deploy %286%29.pubxml" />
+    <None Include="Properties\PublishProfiles\moneyfactory - Web Deploy %287%29.pubxml" />
     <None Include="Properties\PublishProfiles\moneyfactory - Web Deploy.pubxml" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
