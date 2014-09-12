@@ -16,5 +16,7 @@ namespace moneyfactoryService.DataObjects
         public int MinCustomers { get; set; }
         public int CurCustomers { get;set; }
         public int Status { get; set; }
+        public string Image { get; set; }
+        public string DescriptionImage { get; set; }
     }
 }

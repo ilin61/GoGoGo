@@ -9,5 +9,6 @@ namespace moneyfactoryService.DataObjects
     public class CustomerItem: EntityData 
     {
         public string Name { get; set;  }
+        public string Image { get; set; }
     }
 }
